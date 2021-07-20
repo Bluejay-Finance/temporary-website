@@ -3,8 +3,8 @@
   height: 80%;
   margin: auto;
   min-height: 512px;
-  box-shadow: 0px 35px 70px 0px rgba(255, 163, 125, 0.65), 0px 30px 40px -10px rgba(255, 100, 124, 0.55);
-  background: linear-gradient(180deg, rgba(255, 163, 125, 1) 0%, rgba(255, 99, 124, 1) 100%);
+  box-shadow: 0px 35px 70px 0px rgb(125 159 255 / 65%), 0px 30px 40px -10px rgb(100 112 255 / 55%);
+  background: linear-gradient(180deg, rgb(90 154 249) 0%, rgb(17 65 196) 100%);
   border-radius: 10px;
   display: flex;
   flex-direction: column;
